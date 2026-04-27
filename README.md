@@ -25,7 +25,7 @@
 <div align="center">
 
 ### 🎨 Front End
-*HTML • CSS • Bootstrap • Tailwind • JavaScript • React*
+*HTML • CSS • Bootstrap • Tailwind • JavaScript*
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html" width="48" /> &nbsp; &nbsp;
