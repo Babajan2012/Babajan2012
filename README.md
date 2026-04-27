@@ -32,19 +32,17 @@
   <img src="https://skillicons.dev/icons?i=css" width="48" /> &nbsp; &nbsp;
   <img src="https://skillicons.dev/icons?i=bootstrap" width="48" /> &nbsp; &nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" /> &nbsp; &nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="48" /> &nbsp; &nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="48" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" />
 </a>
 
 ### ⚙️ Back End
-*PHP • Laravel • MySQL • NodeJS*
+*PHP • Laravel • MySQL*
 
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php" width="48" /> &nbsp; &nbsp;
     <img src="https://skillicons.dev/icons?i=laravel" width="48" /> &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=mysql" width="48" /> &nbsp; &nbsp;
-    <img src="https://skillicons.dev/icons?i=nodejs" width="48" />
+    <img src="https://skillicons.dev/icons?i=mysql" width="48" />
   </a>
 </div>
 
