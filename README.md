@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-🎂 **14 years old** | 8th Grade
+🎂 **15 years old** | 8th Grade
 
 ❤️ I love programming so much that I want to work on it every single day
 
