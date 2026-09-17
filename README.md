@@ -73,7 +73,21 @@
 > **"I may be at the beginning of the road, but I'm sure I'll get where I want to be"**
 
 ---
+## 🔗 Connect With Me
 
+<div align="center">
+
+<a href="https://abedaghatabay.ir" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Website-abedaghatabay.ir-0A66C2?style=for-the-badge" alt="Website" />
+</a>
+
+</div>
+
+---
+
+🌐 **My Personal Website:** [abedaghatabay.ir](https://abedaghatabay.ir)
+
+</div>
 <div align="center">
 
 **🌟 Every day, I get one step closer to my dream. Programming isn't just a skill for me — it's a path 🌟**
